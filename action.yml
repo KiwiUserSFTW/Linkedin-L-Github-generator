@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator Linkedin Course"
 author: "KiwiUsr"
 description: "Generates a feed for a podcast (Linkedin Learning Course) for a yaml file"
 runs:
